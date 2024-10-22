@@ -58,7 +58,7 @@
 .card--location {
   text-transform: uppercase;
   font-weight: 400;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   margin-right: 12px;
   margin-left: 5px;
   letter-spacing: 3px;
@@ -76,7 +76,7 @@
 }
 
 .card--title {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   margin: 8px 2px 15px 0px;
   font-weight: 700;
 }
